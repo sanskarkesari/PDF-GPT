@@ -18,7 +18,7 @@ PDF-GPT is an AI-powered application that allows users to upload PDFs and ask qu
 ## 📌 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sanskar_kesari/pdf-gpt.git
+   git clone https://github.com/sanskarkesari/pdf-gpt.git
    cd pdf-gpt
    ```
 2. Create a virtual environment:
